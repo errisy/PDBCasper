@@ -28,8 +28,6 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
-    <TypeScriptCompile Include="casperjs.d.ts" />
-    <TypeScriptCompile Include="phantomjs.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <None Include="web.Debug.config">

@@ -52,7 +52,7 @@ module pdb {
 
 
     for (let i: number = 1; i < 20; i++) {
-        links.push('http://www.rcsb.org/pdb/results/results.do?gotopage=' + i + '&qrid=2B8420E2&tabtoshow=Current');
+        links.push('http://www.rcsb.org/pdb/results/results.do?gotopage=' + i + '&qrid=1A6FF44D&tabtoshow=Current');
     }
 
     function start() {
